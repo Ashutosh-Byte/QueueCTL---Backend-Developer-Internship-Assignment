@@ -1,12 +1,5 @@
 # QueueCTL---Backend-Developer-Internship-Assignment
-
-Perfect, Ashu 💪 — here’s a ready-to-paste, professional README.md that checks every box from Flam’s assignment instructions exactly and will look clean on GitHub.
-
-You can copy this whole thing and paste it into your README.md file directly. 👇
-
-⸻
-
-🚀 QueueCTL - Background Job Queue System (Node.js CLI)
+ QueueCTL - Background Job Queue System (Node.js CLI)
 
 QueueCTL is a CLI-based background job queue system built in Node.js.
 It allows you to enqueue background jobs, process them using multiple workers, retry failed jobs with exponential backoff, and manage a Dead Letter Queue (DLQ) for permanently failed jobs.
@@ -35,11 +28,6 @@ It allows you to enqueue background jobs, process them using multiple workers, r
 ⸻
 
 🧰 1. Setup Instructions
-
-🔹 Clone the repository
-
-git clone https://github.com/YOUR_USERNAME/QueueCTL.git
-cd QueueCTL
 
 🔹 Install dependencies
 
@@ -247,7 +235,3 @@ QueueCTL/
 Ashu
 B.Tech, Mechanical Engineering — MNIT Jaipur
 (Developed for Flam Backend Developer Internship Assignment)
-
-⸻
-
-Would you like me to generate a clean test.sh script to go along with this README (matching exactly what’s mentioned under “Testing Instructions”)?
