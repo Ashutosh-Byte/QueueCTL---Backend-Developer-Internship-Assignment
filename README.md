@@ -16,8 +16,6 @@ Persistence: Local SQLite file (queuectl.db)
 
 Clone the repository (or download the files).
 
-git clone https://github.com/YOUR_USERNAME/QueueCTL.git
-cd QueueCTL
 
 Install Dependencies
 
